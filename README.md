@@ -5,4 +5,4 @@ o	Short Description of What the Code Does
 ## Hardware
 o	Hardware Setup (Arduino, LCD, connections)
 
-Anouar el Ghazi
+Anouar El Ghazi 4/14/2025
